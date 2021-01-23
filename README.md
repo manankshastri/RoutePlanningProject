@@ -1,5 +1,6 @@
 # Route Planning Project
 
+A route planner that implements A* algorithm to find a path between two points using OpenStreetMap and 2D visualization library IO2D. 
 
 <table>
 <td> 
