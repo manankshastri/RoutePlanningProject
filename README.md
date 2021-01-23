@@ -1,6 +1,14 @@
 # Route Planning Project
 
-<img src="map.png" width="600" height="450" />
+<hr>
+<table>
+<td> 
+<img src="output/test1.png" style="width:500;height:500px;"> <br>
+</td> 
+<td> 
+<img src="output/test2.png" style="width:500;height:500px;"> <br>
+</td> 
+</table>
 
 ## Cloning
 
