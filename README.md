@@ -1,6 +1,6 @@
 # Route Planning Project
 
-<hr>
+
 <table>
 <td> 
 <img src="output/test1.png" style="width:500;height:500px;"> <br>
