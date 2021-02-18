@@ -15,11 +15,11 @@ A route planner that implements an A* algorithm to find a path between two point
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/manankshastri/RoutePlanningProject.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:manankshastri/RoutePlanningProject.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
