@@ -13,13 +13,9 @@ A route planner that implements an A* algorithm to find a path between two point
 
 ## Cloning
 
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
+When cloning this project, be sure to use the `--recurse-submodules` flag.
 ```
 git clone https://github.com/manankshastri/RoutePlanningProject.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:manankshastri/RoutePlanningProject.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
